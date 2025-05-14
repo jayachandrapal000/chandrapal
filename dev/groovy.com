@@ -2,7 +2,7 @@
 println "Hello, Groovy!"
 
 // Define variables
-def name = "Jay"
+def name = "Jaya"
 def age = 250
 
 // Use variables in a sentence
