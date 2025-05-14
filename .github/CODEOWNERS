@@ -1,0 +1,4 @@
+# Specific owners per folder
+/dev/ @dev-team
+/uat/ @uat-team
+/sample-project/ @sample-owner
