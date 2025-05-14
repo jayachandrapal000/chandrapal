@@ -2,8 +2,8 @@
 println "Hello, Groovy!"
 
 // Define variables
-def name = "Jay"
-def age = 25
+def name = "Jaya"
+def age = 250
 
 // Use variables in a sentence
 println "My name is $name and I am $age years old."
