@@ -8,6 +8,7 @@ def age = 26
 // Use variables in a sentence
 println "My name is $name and I am $age years old."
 
+
 // Simple math
 def a = 10
 def b = 5
