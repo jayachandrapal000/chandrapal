@@ -16,3 +16,5 @@ def product = a * b
 
 println "Sum of $a and $b is $sum"
 println "Product of $a and $b is $product"
+println "codeowner file is set",
+ Codeowners Is working as expected
