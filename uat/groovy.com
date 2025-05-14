@@ -10,7 +10,7 @@ println "My name is $name and I am $age years old."
 
 // Simple math
 def a = 10
-def b = 5
+def b = 20
 def sum = a + b
 def product = a * b
 
