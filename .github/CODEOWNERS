@@ -1,4 +1,11 @@
-# Specific owners per folder
-/dev/ @dev-team
-/uat/ @uat-team
-/sample-project/ @sample-owner
+# Default owner for all files
+* @jayachandrapal000
+
+# Specific owner for dev folder
+/dev/ @jayachandrapal000
+
+# Specific owner for uat folder
+/uat/ @jayachandra
+
+# Specific owner for sample-project folder
+/sample-project/ @jayachandrapal
