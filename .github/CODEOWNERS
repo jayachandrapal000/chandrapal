@@ -4,8 +4,12 @@
 # Specific owner for dev folder
 /dev/ @jayachandrapal000
 
+# Override for a specific file inside dev folder
+/dev/testing regex.com @jaiskyde
+
 # Specific owner for uat folder
 /uat/ @jaiskyde
 
 # Specific owner for sample-project folder
 /sample-project/ @jayachandrapal000
+
