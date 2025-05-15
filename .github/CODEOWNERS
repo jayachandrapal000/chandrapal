@@ -4,6 +4,9 @@
 # Specific owner for dev folder
 /dev/ @jayachandrapal000
 
+# Specific owner for files like testing1groovy.com, testing2groovy.com, etc.
+/dev/testing*groovy.com @jaiskyde
+
 # Specific owner for uat folder
 /uat/ @jaiskyde
 
